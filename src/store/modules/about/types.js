@@ -1,0 +1,5 @@
+'use strict';
+
+export const GET_ABOUT_POST = 'GET_ABOUT_POST'
+export const GET_ABOUT_POST_SUCCESS = 'GET_ABOUT_POST_SUCCESS'
+export const GET_ABOUT_POST_ERROR = 'GET_ABOUT_POST_ERROR'

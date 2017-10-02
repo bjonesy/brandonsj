@@ -1,0 +1,5 @@
+'use strict';
+
+export const GET_HOME_POST = 'GET_HOME_POST'
+export const GET_HOME_POST_SUCCESS = 'GET_HOME_POST_SUCCESS'
+export const GET_HOME_POST_ERROR = 'GET_HOME_POST_ERROR'
