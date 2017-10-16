@@ -13,8 +13,6 @@
  */
 
 get_header(); ?>
-
 	<div id="app"></div><!-- #app -->
-
 <?php
 get_footer();
