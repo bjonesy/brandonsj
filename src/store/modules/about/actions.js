@@ -12,7 +12,7 @@ const actions = {
       message: 'Fetching data...'
     })
 
-    Vue.http.get('http://brandonsj.me/wp-json/acf/v2/page/20')
+    Vue.http.get('http://brandonsj.me/wp-json/acf/v3/pages/20')
       .then(resp => {
         commit(type.GET_ABOUT_POST_SUCCESS, {
           payload: resp.body
