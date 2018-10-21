@@ -1,6 +1,6 @@
 # brandonsj
 
-A custom WordPress theme built with Vue, Vuex and Vue-Router [Live Example](http://brandonsj.me/)
+A custom WordPress theme built with Vue, Vuex and Vue-Router
 
 ## Description
 
